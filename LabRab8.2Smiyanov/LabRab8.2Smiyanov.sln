@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LabRab8.2Smiyanov", "LabRab8.2Smiyanov\LabRab8.2Smiyanov.pyproj", "{9550F86A-1CE3-4F26-B9E6-9C0675B09E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9550F86A-1CE3-4F26-B9E6-9C0675B09E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9550F86A-1CE3-4F26-B9E6-9C0675B09E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4725DC39-4732-413F-851E-A68D915ADD7E}
+	EndGlobalSection
+EndGlobal
